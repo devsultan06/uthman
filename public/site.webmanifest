@@ -1,0 +1,21 @@
+{
+  "name": "devsultan",
+  "short_name": "devsultan",
+  "description": "Sultan's Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/avatar.png",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/avatar.png",
+      "sizes": "16x16 32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
